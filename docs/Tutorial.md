@@ -4,7 +4,7 @@
 
 ## Resources Download
 
-[Code](./Code.zip)
+[code](./code.zip)
 
 
 
