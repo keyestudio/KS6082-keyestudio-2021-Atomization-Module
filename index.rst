@@ -4,7 +4,7 @@
    :caption: KS6082 keyestudio 2021 Atomization Module
 
    README.md
-   docs/英文资料.md
+   docs/KS6082.md
 
 
 
