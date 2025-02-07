@@ -2,6 +2,12 @@
 
 ![01](img/01.jpg)
 
+## Resources Download
+
+[Code](./Code.zip)
+
+
+
 ## Introduction
 
 The atomization module is composed of a drive module and an atomizer, which is used to atomize and humidify the water. It can be controlled by MCU or buttons. V is connected to 3~5V voltage input, G is connected to GND, and S is the signal pin.
